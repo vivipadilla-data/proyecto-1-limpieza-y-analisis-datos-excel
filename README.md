@@ -51,11 +51,10 @@ Se aplicaron funciones de Excel para transformación y análisis de datos, inclu
 
 `limpieza_datos_excel_resultado_final.xlsx`
 
-
-![Proyecto 1 - Limpieza y Análisis de Datos en Excel](limpieza_datos.png) 
-
 Contiene la base limpia, tablas dinámicas y visualizaciones generadas durante el análisis.
 
 ## 💡 Aprendizajes
 
 Este proyecto permitió desarrollar fundamentos de análisis de datos, enfocándose en la importancia de la calidad de la información, la limpieza de bases de datos y la comunicación de resultados mediante visualizaciones.
+
+![Proyecto 1 - Limpieza y Análisis de Datos en Excel](limpieza_datos.png) 
